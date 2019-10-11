@@ -1,6 +1,6 @@
 const title = <h1>'My first react element'</h1>
 
-const desc = <p>'I just learned to create a react node and render it to the DOM'</p>
+const desc = <p>'I just learned how to create a react node and render it to the DOM'</p>
 
 const header = (
     <header>
